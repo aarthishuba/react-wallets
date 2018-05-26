@@ -1,0 +1,54 @@
+{
+    "recipient": [{
+            "name": "Paytm"
+        },
+        {
+            "name": "Payback"
+        },
+        {
+            "name": "FreeCharge"
+        },
+        {
+            "name": "Kwik"
+        },
+        {
+            "name": "Uber"
+        }
+    ],
+    "own": [{
+            "name": "Paytm"
+        },
+        {
+            "name": "Payback"
+        },
+        {
+            "name": "FreeCharge"
+        },
+        {
+            "name": "JIOmoney"
+        },
+        {
+            "name": "OLAmoney"
+        }
+    ],
+    "payment": [{
+            "name": "Paytm"
+        },
+        {
+            "name": "Payback"
+        },
+        {
+            "name": "FreeCharge"
+        },
+        {
+            "name": "Kwik"
+        },
+        {
+            "name": "OLAmoney"
+        },
+        {
+            "name": "Uber"
+        }
+    ]
+
+}

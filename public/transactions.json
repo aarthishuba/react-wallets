@@ -1,0 +1,99 @@
+ [{
+      "src": "Uber",
+      "dest": "Payback",
+      "type": "RECIPIENT",
+      "amt": "100",
+      "minAmount": "100",
+      "maxAmount": "200"
+    },
+    {
+      "src": "Payback",
+      "dest": "Paytm",
+      "type": "RECIPIENT",
+      "amt": "200",
+      "minAmount": "100",
+      "maxAmount": "200"
+    },
+    {
+      "src": "FreeCharge",
+      "dest": "JIOmoney",
+      "type": "RECIPIENT",
+      "amt": "150",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "Paytm",
+      "dest": "Paytm",
+      "type": "RECIPIENT",
+      "amt": "240",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "FreeCharge",
+      "dest": "Paytm",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "Paytm",
+      "dest": "Kwik",
+      "type": "PAYMENT",
+      "amt": "350",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "JIOmoney",
+      "dest": "Uber",
+      "type": "PAYMENT",
+      "amt": "280",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "FreeCharge",
+      "dest": "Payback",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "FreeCharge",
+      "dest": "FreeCharge",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    {
+      "src": "FreeCharge",
+      "dest": "Kwik",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    
+    {
+      "src": "FreeCharge",
+      "dest": "OLAmoney",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    },
+    
+    {
+      "src": "FreeCharge",
+      "dest": "Uber",
+      "type": "PAYMENT",
+      "amt": "300",
+      "minAmount": "100",
+      "maxAmount": "500"
+    }
+  ]
